@@ -4,4 +4,6 @@ html, body {
   width: 100%;
   background-color: black;
   color: white;
+
+  font-family: 'Poppins', sans-serif;
 }
