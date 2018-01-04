@@ -2,8 +2,19 @@ html, body {
   margin: 0;
   padding: 0;
   width: 100%;
-  background-color: black;
+  background-color: 00190D;
   color: white;
 
-  font-family: 'Poppins', sans-serif;
 }
+h1.a {font-family: 'Libre Baskerville', serif;}
+h1.b {font-family: 'Lora', serif;}
+h1.c {font-family: 'Noto Serif', serif;}
+h1.d {font-family: 'Source Serif Pro', serif;}
+h1.e {font-family: 'Tinos', serif;}
+h1.f {font-family: 'Amiri', serif;}
+h1.g {font-family: 'Volkhov', serif;}
+h1.h {font-family: 'Frank Ruhl Libre', serif;}
+h1.i {font-family: 'Halant', serif;}
+h1.j {font-family: 'Taviraj', serif;}
+h1.k {font-family: 'Amita', cursive;}
+h1.l {font-family: 'Cormorant Upright', serif;}
