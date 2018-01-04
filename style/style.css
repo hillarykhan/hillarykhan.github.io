@@ -7,15 +7,7 @@ html, body {
 
 }
 h1.a {font-family: 'Libre Baskerville', serif;}
-h1.b {font-family: 'Lora', serif;}
-h1.c {font-family: 'Noto Serif', serif;}
-h1.d {font-family: 'Source Serif Pro', serif;}
-h1.e {font-family: 'Tinos', serif;}
-h1.f {font-family: 'Amiri', serif;}
-h1.g {font-family: 'Volkhov', serif;}
-h1.h {font-family: 'Frank Ruhl Libre', serif;}
-h1.i {font-family: 'Halant', serif;}
 h1.k {font-family: 'Amita', cursive;}
-h1.l {font-family: "Times New Roman", Times, serif;}
-h1.m {font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif;}
-h1.n {font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;}
+h1.l {font-family: "Times New Roman", serif;}
+h1.m {font-family: "Baskerville Old Face", serif;}
+h1.n {font-family: "Century Gothic", sans-serif;}
