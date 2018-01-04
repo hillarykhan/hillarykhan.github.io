@@ -2,7 +2,7 @@ html, body {
   margin: 0;
   padding: 0;
   width: 100%;
-  background-color: 00190D;
+  background-color: #010A1F;
   color: white;
 
 }
@@ -15,6 +15,5 @@ h1.f {font-family: 'Amiri', serif;}
 h1.g {font-family: 'Volkhov', serif;}
 h1.h {font-family: 'Frank Ruhl Libre', serif;}
 h1.i {font-family: 'Halant', serif;}
-h1.j {font-family: 'Taviraj', serif;}
 h1.k {font-family: 'Amita', cursive;}
 h1.l {font-family: 'Cormorant Upright', serif;}
