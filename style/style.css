@@ -6,8 +6,24 @@ html, body {
   color: white;
 
 }
-h1.a {font-family: 'Libre Baskerville', serif;}
-h1.k {font-family: 'Amita', cursive;}
-h1.l {font-family: "Times New Roman", serif;}
-h1.m {font-family: "Baskerville Old Face", serif;}
-h1.n {font-family: "Century Gothic", sans-serif;}
+
+h1.a {
+        font-family: "Century Gothic", sans-serif;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 100;
+}
+
+h1.b {
+        font-family: 'Amita', cursive;
+        font-size: 48px;
+        font-style: normal;
+        font-weight: 700;
+}
+
+h1.c {
+        font-family: "Baskerville Old Face", serif;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+}
