@@ -20,7 +20,7 @@ h1.b {
         font-size: 64px;
         font-style: normal;
         font-weight: 700;
-        background-color: #010A1F;
+        background-color: #021033;
 
 }
 
@@ -32,9 +32,10 @@ h1.c {
 
 }
 
-.temp1 {
+
+.temp7 {
         border-radius: 25px;
-        background-color: #010A1F;
+        background-color: #021033;
         padding: 20px;
         width: 200px;
         height: 150 px;
@@ -43,7 +44,16 @@ h1.c {
 
 .temp2 {
         border-radius: 25px;
-        background-color: #021030;
+        background-color: #031A52;
+        padding: 20px;
+        width: 200px;
+        height: 150 px;
+
+}
+
+.temp8 {
+        border-radius: 25px;
+        background-color: #010A1F;
         padding: 20px;
         width: 200px;
         height: 150 px;
@@ -80,6 +90,15 @@ h1.c {
 .temp6 {
         border-radius: 25px;
         background-color: #00665F;
+        padding: 20px;
+        width: 200px;
+        height: 150 px;
+
+}
+
+.temp9 {
+        border-radius: 25px;
+        background-color: #003D38;
         padding: 20px;
         width: 200px;
         height: 150 px;
