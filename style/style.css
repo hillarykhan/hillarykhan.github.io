@@ -1,14 +1,11 @@
 html, body {
-  margin: 0;
-  padding: 0;
-  width: 100%;
   background-color: #010A1F;
-  color: white;
+  color: red;
 }
 
 a.navbar-brand {
   font-family: 'Amita', cursive;
-  font-size: 64px;
+  font-size: 20px;
   font-style: normal;
   font-weight: 700;
 }
