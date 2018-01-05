@@ -1,13 +1,13 @@
 html, body {
   background-color: white;
-  color: #021033;
+  color: #02133D;
 }
 
 nav {
   background-color: white;
-  color: #021033;
-  font-family: 'Amita', cursive;
-  font-size: 32px;
+  color: #02133D;
+  font-family: 'Stalemate', cursive;
+  font-size: 48px;
   font-style: normal;
   font-weight: 700;
   text-align: center;
@@ -16,7 +16,7 @@ nav {
 
 nav > span.navbar-text {
   text-transform: capitalize;
-  color: #021033;
+  color: #02133D;
   padding: 0;
 }
 
@@ -36,7 +36,7 @@ p.c {
 
 .temp7 {
         border-radius: 25px;
-        background-color: #021033;
+        background-color: #02133D;
         padding: 20px;
         width: 200px;
         height: 150 px;
@@ -110,30 +110,14 @@ h1.a {
         font-size: 24px;
         font-style: normal;
         font-weight: 300;
-
 }
 
-h1.b {
-        font-family: 'Amita', cursive;
-        font-size: 64px;
-        font-style: normal;
-        font-weight: 700;
-        background-color: #021033;
-
-}
 
 h1.d {
         font-family: 'Stalemate', cursive;
         font-size: 95px;
         font-style: normal;
-
-}
-
-h1.e {
-        font-family: 'Italiana', serif;
-        font-size: 48px;
-        font-style: normal;
-
+        color: #02133D;
 }
 
 h1.g {
