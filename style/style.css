@@ -22,7 +22,7 @@ nav > span.navbar-text {
 
 ul.nav {
   font-family: "Century Gothic", sans-serif;
-  font-size: 22px;
+  font-size: 16px;
   font-style: normal;
   font-weight: 100;
 }
@@ -122,35 +122,17 @@ h1.b {
 
 }
 
-h1.c {
-        font-family: "Baskerville Old Face", serif;
-        font-size: 16px;
-        font-style: normal;
-        font-weight: 200;
-
-}
-
 h1.d {
         font-family: 'Stalemate', cursive;
-        font-size: 16px;
+        font-size: 95px;
         font-style: normal;
-        font-weight: 200;
 
 }
 
 h1.e {
         font-family: 'Italiana', serif;
-        font-size: 16px;
+        font-size: 48px;
         font-style: normal;
-        font-weight: 200;
-
-}
-
-h1.f {
-        font-family: 'Playfair Display', serif;
-        font-size: 16px;
-        font-style: normal;
-        font-weight: 200;
 
 }
 
