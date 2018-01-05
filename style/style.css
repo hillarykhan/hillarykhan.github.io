@@ -32,6 +32,37 @@ h1.c {
 
 }
 
+h1.d {
+        font-family: 'Stalemate', cursive;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 200;
+
+}
+
+h1.e {
+        font-family: 'Italiana', serif;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 200;
+
+}
+
+h1.f {
+        font-family: 'Playfair Display', serif;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 200;
+
+}
+
+h1.g {
+        font-family: 'Merriweather', serif;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 200;
+
+}
 
 .temp7 {
         border-radius: 25px;
