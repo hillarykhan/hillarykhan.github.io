@@ -3,7 +3,8 @@ html, body {
   color: #02133D;
 }
 
-nav {
+nav.navbar {
+  padding:0;
   background-color: white;
   color: #02133D;
   font-family: 'Stalemate', cursive;
@@ -12,6 +13,11 @@ nav {
   font-weight: 700;
   text-align: center;
 }
+
+div.jumbotron {
+  height:600px;
+  background: url(../images/hillary-jumbotron-two.png) no-repeat bottom;
+  }
 
 
 nav > span.navbar-text {
